@@ -1,0 +1,18 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+  background-color: #000;
+  display: grid;
+  justify-content: center;
+}
+
+.heading {
+  color: #fff;
+  font-size: 48px;
+  justify-self: center;
+}
+
+.button_container {
+  display: flex;
+  justify-content: space-between;
+}
